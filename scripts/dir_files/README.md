@@ -2,6 +2,10 @@
 
 >A simple script developed using python and the `os` library.
 
+## Documentation
+
+Check my oficial [**documentation**](https://joaohb07.github.io/documentation/python/walk_dir/walk_dir/) for more information on my python projects!
+
 ## Installation
 
 This script is developed in ***[python3.7 >](https://www.python.org/downloads/)***, make sure you have this installed before run it.
