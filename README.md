@@ -4,6 +4,8 @@
 
 ---
 
+[![Unit Tests](https://github.com/joaohb07/python-projects/actions/workflows/python_tests.yml/badge.svg)](https://github.com/joaohb07/python-projects/actions/workflows/python_tests.yml)
+
 ## Documentation
 
 Check my oficial [***documentation***](https://joaohb07.github.io/documentation/python/python) for more information on my python projects!
