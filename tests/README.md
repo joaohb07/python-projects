@@ -4,7 +4,7 @@ These are the Unit tests developed to test my python scripts.
 
 ## Documentation
 
-Check my oficial [***documentation***](https://joaohb07.github.io/documentation/python/unit_tests) for more information on my python projects!
+Check my oficial [***documentation***](https://joaohb07.github.io/documentation/python/unit_tests/unit_tests/) for more information on my python projects!
 
 ## Usage
 
