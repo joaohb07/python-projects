@@ -8,7 +8,7 @@
 
 ## Documentation
 
-Check my oficial [***documentation***](https://joaohb07.github.io/documentation/python/python) for more information on my python projects!
+Check my oficial [**documentation**](https://joaohb07.github.io/documentation/python/python_projects/) for more information on my python projects!
 
 ## Usage
 
